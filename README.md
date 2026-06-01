@@ -11,11 +11,11 @@
 
 <strong>This is the main repo, for pre-built IPAs and Debs. Updates will be published in Releases tab and in the <a href="#download-table">Download table</a>.</strong>
 
-Visit <a href="https://github.com/Mark02-2012/YTPlusM-DIY">YTPlusM-DIY repo</a> to build yourself YTPlusM IPAs (with YTPlus from 5.1 to 5.2.1, no 5.2) without DRM Patreon subscription.
+Fork this repo to build yourself YTPlusM IPAs (with YTPlus from 5.1 to 5.2.1, no 5.2) without DRM Patreon subscription.
 **Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and YTPlusM app using GitHub Actions](#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions) and [What Means YTPlusM and YTPlusM DIY](#what-means-ytplusm-and-ytplusm-diy)**
 
-## MUST READ
-**From first of June you will not need anymore [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY), but simply fork this repository (main branch). [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY) will not be updated anymore**
+# MUST READ
+**From now you do not need anymore [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY), but simply fork this repository (main branch). [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY) will not be updated anymore**
 
 ## Download table
 
@@ -93,7 +93,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
-> 1. Fork <a href="https://GitHub.com/Mark02-2012/YTPlusM-DIY">this</a> repository using the fork button on the top right
+> 1. Fork this repository using the fork button on the top right
 > 2. On your forked repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
 
 <details>
@@ -135,7 +135,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 
 <li><strong>YTPlusM DIY:</strong></li>
-<p><strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Fork <a href="https://github.com/Mark02-2012/YTPlusM-DIY">YTPlusM-DIY repo</a> (to build YTPlusM with YTLite from 5.1 to 5.2.1, no 5.2, without DRM Patreon subscription); then go to Actions, workflows, "Create YouTube Plus app", make sure it is selected the branch "YTPlusM_DIY" and create your total functioning IPA!</strong>
+<p><strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Fork this repo (to build YTPlusM with YTLite from 5.1 to 5.2.1, no 5.2, without DRM Patreon subscription); then go to Actions, workflows, "Create YouTube Plus app", make sure it is selected the branch "main" and create your total functioning IPA!</strong>
 View also <a href=#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions>How to build YouTube Plus and YTPlusM app using GitHub Actions</a> to learn how to create YTPlus and YTPlusM IPAs.
 <li><strong>IMPORTANT: read <a href="#must-read">this</a></strong></li></p>
 
