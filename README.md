@@ -19,6 +19,8 @@ Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and Y
 # MUST READ
 **From now (June 1 2026) you do not need anymore [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY), but simply fork this repository (main branch). [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY) will not be updated anymore**
 
+**Soon download table will be deleted and releases' files will be foundable in a .txt file due to legal reasons**
+
 ## Download table
 
 | Release | YT version | YTLite version | YTPlusM version |
