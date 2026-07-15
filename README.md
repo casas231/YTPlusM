@@ -25,7 +25,7 @@ Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and Y
 **3. I also created a new tweak to fix playback issues! You can find it in my new releases in the Telegram channel, in GitHub Actions and [in the official repository](https://github.com/Mark02-2012/YTPlaybackFix)**
 
 ## Table of Contents
-- [Screenshots](#screenshots)
+- [Screenshots of YouTube Plus](#screenshots-of-youtube-plus)
 - [Main Features of YouTube Plus](#main-features-of-youtube-plus)
 - [FAQ](#faq)
 - [Reviews](#reviews)
@@ -38,7 +38,7 @@ Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and Y
 - [Tweak Integration Details](#tweak-integration-details)
 - [Special thanks](#special-thanks)
 
-## Screenshots
+## Screenshots of YouTube Plus
 <table>
    <tr>
       <td><img src="Resources/scr1.jpg" alt="Screenshot 1" /></td>
